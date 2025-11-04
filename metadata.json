@@ -1,0 +1,5 @@
+{
+  "name": "PyClean: AI Python Code Beautifier",
+  "description": "A futuristic web app that uses the Gemini API to beautify messy Python code. Features a split-screen editor view and an immersive, animated 3D background built with Three.js.",
+  "requestFramePermissions": []
+}
